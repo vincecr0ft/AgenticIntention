@@ -1,0 +1,4 @@
+boto3>=1.34.0
+pandas>=2.0.0
+pandasai>=2.0.0
+torch>=2.0.0  # If including model, else load from S3
